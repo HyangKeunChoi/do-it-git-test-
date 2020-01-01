@@ -15,4 +15,4 @@
 ---
 
 
-![두잇깃허브](./image directory2/1.jpg)
+![두잇깃허브](./imagedirectory2/1.jpg)
