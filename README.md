@@ -15,4 +15,4 @@
 ---
 
 
-![두잇깃허브](https://github.com/HyangKeunChoi/do-it-git-test-/tree/master/image%20directory2/1.jpg)
+![두잇_깃허브](https://github.com/HyangKeunChoi/do-it-git-test-/tree/master/image%20directory2/1.jpg)
