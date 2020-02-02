@@ -16,3 +16,5 @@
 
 
 ![두잇_깃허브](https://github.com/HyangKeunChoi/do-it-git-test-/tree/master/image%20directory2/1.jpg)
+
+![retry](https://user-images.githubusercontent.com/49984996/73605058-d660a100-45dc-11ea-918a-ff64e46f6743.jpg)
